@@ -1,0 +1,1 @@
+curl -H “x-secretcode: IYZWLKWN4TB2WPEW4GL40RXT” -X POST —data-binary @mysite.tar.gz https://u.telegr.am/
